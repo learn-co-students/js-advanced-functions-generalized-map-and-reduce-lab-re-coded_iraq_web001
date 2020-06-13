@@ -1,4 +1,4 @@
-# JavaScript Advanced Functions: Generalized Map and Reduce Lab
+stValure# JavaScript Advanced Functions: Generalized Map and Reduce Lab
 
 ## Learning Goals
 
